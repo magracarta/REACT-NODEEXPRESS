@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.chat {
+  margin: 20px;
+}
+
+.chat input {
+  width: 300px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.chat button {
+  padding: 10px 20px;
+}
+
+.chat ul {
+  list-style: none;
+  padding: 0;
+}
+
+.chat li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+}
