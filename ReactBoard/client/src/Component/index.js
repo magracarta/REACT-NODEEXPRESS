@@ -1,0 +1,9 @@
+export {default as Login} from "./Login";
+export {default as Main} from "./Main";
+export {default as JoinForm} from "./member/JoinForm";
+export {default as UserInfo} from "./member/UserInfo";
+export {default as Memberupdate} from "./member/Memberupdate";
+export {default as BoardList} from "./board/BoardList";
+export {default as BoardView} from "./board/BoardView";
+export {default as WriteBoard} from "./board/WriteBoard";
+export {default as UpdateBoard} from "./board/UpdateBoard.js";

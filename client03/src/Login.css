@@ -1,0 +1,3 @@
+form { background: aqua; }
+input[type=text] { background: orange; }
+input[type=password] { background: yellowgreen; }
